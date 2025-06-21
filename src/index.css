@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+
+body{
+    background-color: #f8f7ee;
+}
